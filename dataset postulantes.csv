@@ -1,0 +1,286 @@
+Nombres y Apellidos;Departamento;Profesion;Especializacion;Tiempo de experiencia;Sexo;Tiene hijos;Edad;Fecha de registro del postulante
+Luciana Quispe Vargas;Lima;Ingeniero de Software;Desarrollo Backend;6 años;F;TRUE;32;2024-09-15
+Mateo Flores Rojas;Arequipa;Analista de Datos;Inteligencia de Negocios;4 años;M;FALSE;28;2025-02-10
+Camila Mendoza Cruz;Lima;Diseñador UX/UI;Diseño de Producto;5 años;F;FALSE;29;2024-11-20
+Liam Torres Garcia;La Libertad;Arquitecto Cloud;Cloud Computing;9 años;M;TRUE;38;2025-08-01
+Isabella Castillo Diaz;Lima;Gerente de Proyectos TI;Gestión de Proyectos;12 años;F;TRUE;45;2024-06-18
+Lucas Mamani Sanchez;Cusco;Administrador de BD;Bases de Datos;7 años;M;TRUE;35;2025-10-05
+Valentina Chavez Soto;Lima;Especialista en Ciberseguridad;Seguridad Informática;6 años;F;FALSE;31;2024-03-12
+Thiago Herrera Ramirez;Piura;Desarrollador Frontend;Desarrollo Frontend;3 años;M;FALSE;25;2025-05-22
+Emma Vasquez Benites;Junín;Ingeniero DevOps;DevOps;8 años;F;TRUE;36;2024-12-30
+Daniel Paredes Rios;Lima;Científico de Datos;Machine Learning;5 años;M;FALSE;30;2025-07-14
+Martin Gomez Flores;Arequipa;Ingeniero de Software;Desarrollo Backend;4 años;M;FALSE;27;2024-04-01
+Gabriela Rodriguez Pérez;Lima;Analista de Sistemas;Análisis de Negocios;6 años;F;TRUE;33;2025-11-11
+Sebastian Diaz Quispe;Lambayeque;Desarrollador Móvil;Desarrollo Móvil;5 años;M;FALSE;29;2024-07-25
+Valeria Huaman Lopez;Lima;Especialista en Redes;Infraestructura;10 años;F;TRUE;41;2025-03-05
+Alejandro Gutierrez Castillo;Cusco;Ingeniero de Datos;Big Data;7 años;M;TRUE;34;2024-10-10
+Victoria Vargas Mendoza;Lima;Arquitecto de Software;Arquitectura de Software;14 años;F;TRUE;48;2025-06-02
+Matias Rojas Torres;Ica;Soporte Técnico;Soporte TI;8 años;M;TRUE;39;2024-01-20
+Mia Sanchez Chavez;Ancash;QA Tester;Calidad de Software;4 años;F;FALSE;26;2025-09-18
+Leonardo Castro Ramos;Lima;Desarrollador Fullstack;Desarrollo Web;5 años;M;FALSE;30;2024-07-01
+Renata Morales Cruz;Puno;Analista de Seguridad;Seguridad Informática;6 años;F;TRUE;32;2025-04-08
+Santiago Flores Quispe;Lima;Ingeniero de Software;Desarrollo Backend;7 años;M;TRUE;34;2024-11-05
+Jimena Mamani Garcia;Tacna;Gerente de Proyectos TI;Gestión de Proyectos;13 años;F;TRUE;47;2025-07-20
+Nicolas Castillo Vargas;Lima;Administrador de Sistemas;DevOps;9 años;M;TRUE;40;2024-04-28
+Samuel Perez Soto;Ucayali;Diseñador UX/UI;Diseño de Producto;3 años;M;FALSE;24;2025-10-23
+Luna Vasquez Benites;Lima;Desarrollador Frontend;Desarrollo Frontend;4 años;F;FALSE;27;2024-08-14
+Adrian Herrera Rios;Arequipa;Analista de Datos;Inteligencia de Negocios;5 años;M;FALSE;29;2025-02-19
+Mariana Torres Rojas;Lima;Arquitecto Cloud;Cloud Computing;8 años;F;TRUE;37;2024-12-01
+Bautista Quispe Mendoza;La Libertad;QA Automation;Calidad de Software;6 años;M;TRUE;33;2025-06-25
+Antonella Cruz Diaz;Lima;Ingeniero de Software;Desarrollo Backend;5 años;F;FALSE;28;2024-02-18
+Emiliano Castillo Sanchez;San Martín;Analista Funcional;Análisis de Negocios;7 años;M;TRUE;36;2025-09-02
+Catalina Chavez Mamani;Lima;Especialista en Ciberseguridad;Seguridad Informática;8 años;F;TRUE;39;2024-05-19
+Felipe Soto Gutierrez;Cajamarca;Desarrollador Móvil;Desarrollo Móvil;4 años;M;FALSE;26;2025-11-15
+Agustina Ramos Vargas;Lima;Soporte Técnico;Soporte TI;6 años;F;TRUE;31;2024-10-01
+Joaquin Benites Morales;Loreto;Gerente de TI;Gestión de TI;18 años;M;TRUE;55;2025-03-24
+Isidora Rios Castillo;Lima;Ingeniero de Datos;Big Data;6 años;F;FALSE;32;2024-08-05
+Lorenzo Paredes Torres;Huánuco;Diseñador Gráfico Digital;Diseño Digital;5 años;M;FALSE;29;2025-02-22
+Amanda Garcia Perez;Lima;Administrador de BD;Bases de Datos;9 años;F;TRUE;42;2024-12-14
+Benjamín Rojas Quispe;Moquegua;Arquitecto de Software;Arquitectura de Software;11 años;M;TRUE;44;2025-07-07
+Julieta Mendoza Lopez;Lima;Desarrollador Fullstack;Desarrollo Web;7 años;F;TRUE;34;2024-03-26
+Máximo Huaman Diaz;Pasco;Analista de Datos;Inteligencia de Negocios;4 años;M;FALSE;28;2025-08-19
+Regina Sanchez Castillo;Lima;Especialista en Redes;Infraestructura;8 años;F;TRUE;38;2024-11-09
+Dante Chavez Soto;Ayacucho;QA Tester Manual;Calidad de Software;3 años;M;FALSE;25;2025-05-01
+Olivia Gutierrez Ramos;Lima;Ingeniero DevOps;DevOps;6 años;F;FALSE;31;2024-02-01
+Félix Morales Benites;Apurímac;Analista de Sistemas;Análisis de Negocios;5 años;M;TRUE;30;2025-09-25
+Jazmín Torres Rios;Lima;Desarrollador Backend;Desarrollo Backend;7 años;F;TRUE;35;2024-06-19
+Ignacio Paredes Garcia;Tumbes;Desarrollador Frontend;Desarrollo Frontend;5 años;M;FALSE;29;2025-04-03
+Abril Flores Mamani;Lima;Administrador de Sistemas;Infraestructura;10 años;F;TRUE;43;2024-09-08
+Camilo Castillo Quispe;Madre de Dios;Gerente de Proyectos TI;Gestión de Proyectos;9 años;M;TRUE;41;2025-01-16
+Bianca Vargas Perez;Lima;Soporte Técnico Nivel 2;Soporte TI;7 años;F;TRUE;36;2024-11-23
+Gael Lopez Soto;Amazonas;Diseñador UX/UI;Diseño de Producto;4 años;M;FALSE;27;2025-05-28
+Alana Huaman Gutierrez;Lima;Ingeniero de Software;Desarrollo Backend;6 años;F;FALSE;30;2024-03-05
+Elías Ramos Castillo;Huancavelica;Analista de Datos;Inteligencia de Negocios;3 años;M;FALSE;26;2025-08-01
+Lucía Benites Rios;Lima;Ingeniero de Redes;Infraestructura;9 años;F;TRUE;39;2024-04-14
+Bruno Paredes Flores;Cajamarca;Desarrollador Móvil;Desarrollo Móvil;4 años;M;FALSE;28;2025-10-09
+Zoe Quispe Mamani;Arequipa;Arquitecto de Datos;Big Data;10 años;F;TRUE;42;2024-07-15
+Santino Garcia Vargas;Lima;Analista de Ciberseguridad;Seguridad Informática;5 años;M;FALSE;31;2025-03-18
+Elena Lopez Castillo;Piura;Desarrollador Fullstack;Desarrollo Web;6 años;F;TRUE;33;2024-12-22
+Tomás Soto Diaz;Lima;Gerente de Producto;Gestión de Producto;8 años;M;TRUE;38;2025-06-30
+Lola Huaman Sanchez;Cusco;Administrador de BD;Bases de Datos;7 años;F;TRUE;37;2024-02-08
+Pablo Chavez Morales;Lima;Ingeniero de Calidad de Software;Calidad de Software;6 años;M;FALSE;32;2025-09-02
+Alma Gutierrez Benites;Ancash;Soporte Técnico;Soporte TI;5 años;F;FALSE;29;2024-10-18
+Mateo Ramos Rios;Lima;Diseñador UX;Diseño de Producto;4 años;M;FALSE;26;2025-04-22
+Martina Torres Paredes;La Libertad;Desarrollador Backend;Desarrollo Backend;5 años;F;FALSE;28;2024-09-15
+Simón Flores Garcia;Puno;Analista Funcional;Análisis de Negocios;6 años;M;TRUE;34;2025-02-27
+Amelia Quispe Castillo;Lima;Ingeniero DevOps;DevOps;7 años;F;TRUE;36;2024-12-01
+Bastián Vargas Mamani;Arequipa;Desarrollador Frontend;Desarrollo Frontend;3 años;M;FALSE;25;2025-07-28
+Noa Mendoza Perez;Lima;Especialista en Cloud Security;Seguridad Informática;9 años;F;TRUE;40;2024-06-11
+Facundo Diaz Soto;Tacna;Analista de Datos;Inteligencia de Negocios;4 años;M;FALSE;29;2025-11-04
+Julia Castillo Huaman;Lima;Arquitecto de Soluciones;Arquitectura de Software;15 años;F;TRUE;52;2024-03-21
+Vicente Sanchez Chavez;Junín;Gerente de Proyectos Ágiles;Gestión de Proyectos;10 años;M;TRUE;43;2025-08-23
+Clara Morales Gutierrez;Lima;Administrador de Redes;Infraestructura;8 años;F;TRUE;37;2024-07-03
+Fermín Benites Ramos;Ica;QA Automation Engineer;Calidad de Software;5 años;M;FALSE;31;2025-01-22
+Aitana Rios Paredes;Lima;Desarrollador de Videojuegos;Desarrollo de Software;6 años;F;FALSE;30;2024-05-08
+Galo Garcia Torres;Ucayali;Analista de BI;Inteligencia de Negocios;7 años;M;TRUE;36;2025-09-19
+Trinidad Mamani Flores;Lima;Soporte de Aplicaciones;Soporte TI;6 años;F;TRUE;33;2024-07-31
+Andrés Quispe Vargas;Lambayeque;Diseñador de Interacción;Diseño de Producto;5 años;M;FALSE;29;2025-03-07
+Pía Castillo Mendoza;Lima;Ingeniero de Software;Desarrollo Backend;4 años;F;FALSE;28;2025-01-09
+Román Perez Diaz;Ayacucho;Desarrollador Fullstack;Desarrollo Web;5 años;M;FALSE;30;2025-05-21
+Ambar Soto Huaman;Lima;Especialista en Ciberseguridad;Seguridad Informática;7 años;F;TRUE;35;2024-10-25
+Borja Sanchez Morales;Amazonas;Analista de Datos;Inteligencia de Negocios;4 años;M;FALSE;27;2025-04-05
+Luz Chavez Benites;Lima;Arquitecto Cloud;Cloud Computing;10 años;F;TRUE;41;2024-08-30
+Teo Gutierrez Ramos;Cusco;Desarrollador Móvil;Desarrollo Móvil;6 años;M;TRUE;34;2025-02-03
+Malena Rios Castillo;Lima;Administrador de Sistemas Linux;Infraestructura;12 años;F;TRUE;46;2024-06-16
+Ciro Paredes Garcia;San Martín;Gerente de Proyectos Digitales;Gestión de Proyectos;8 años;M;TRUE;39;2025-11-18
+Rocío Flores Mamani;Lima;Ingeniero de Datos;Big Data;5 años;F;FALSE;31;2024-02-24
+Pedro Quispe Perez;Arequipa;QA Manual;Calidad de Software;4 años;M;FALSE;26;2025-07-16
+India Vargas Soto;Lima;Soporte Técnico Bilingüe;Soporte TI;6 años;F;TRUE;32;2024-10-11
+Juan Cruz Lopez Huaman;Loreto;Diseñador UI;Diseño de Producto;5 años;M;FALSE;28;2025-04-30
+Mercedes Diaz Castillo;Lima;Desarrollador Backend;Desarrollo Backend;8 años;F;TRUE;38;2024-08-21
+Eliseo Sanchez Chavez;Moquegua;Analista de Negocios;Análisis de Negocios;7 años;M;TRUE;37;2025-02-12
+Adela Morales Gutierrez;Lima;Ingeniero DevOps;DevOps;6 años;F;FALSE;33;2024-05-26
+Eloy Benites Ramos;Tumbes;Desarrollador Frontend;Desarrollo Frontend;4 años;M;FALSE;27;2025-10-20
+Paloma Rios Paredes;Lima;Especialista en Seguridad de Redes;Seguridad Informática;9 años;F;TRUE;40;2025-01-02
+Uriel Garcia Torres;Pasco;Analista de Datos Geoespaciales;Inteligencia de Negocios;5 años;M;FALSE;30;2025-07-11
+Juana Mamani Flores;Lima;Arquitecto de Integraciones;Arquitectura de Software;13 años;F;TRUE;49;2024-03-30
+Víctor Quispe Vargas;Apurímac;Gerente de Producto Técnico;Gestión de Producto;10 años;M;TRUE;44;2025-09-05
+Lara Castillo Mendoza;Lima;Administrador de Servidores Windows;Infraestructura;12 años;F;TRUE;45;2024-07-22
+Salvador Perez Diaz;Huancavelica;Desarrollador Móvil Android;Desarrollo Móvil;6 años;M;TRUE;33;2025-02-18
+Manuela Soto Huaman;Lima;Ingeniero de Confiabilidad del Sitio (SRE);DevOps;8 años;F;TRUE;38;2024-11-27
+Segundo Sanchez Morales;Madre de Dios;Scrum Master;Gestión de Proyectos;7 años;M;TRUE;36;2025-05-12
+Esther Chavez Benites;Lima;Analista de Malware;Seguridad Informática;6 años;F;FALSE;31;2024-01-14
+Fidel Gutierrez Ramos;Ancash;Analista de Sistemas;Análisis de Negocios;5 años;M;FALSE;30;2025-09-28
+Nerea Rios Castillo;Lima;Desarrollador Fullstack;Desarrollo Web;4 años;F;FALSE;27;2024-06-27
+Óscar Paredes Garcia;Ica;QA Tester de Performance;Calidad de Software;7 años;M;TRUE;35;2025-03-22
+Ariadna Flores Mamani;Lima;Soporte Técnico de Campo;Soporte TI;9 años;F;TRUE;40;2024-10-30
+Xavier Quispe Perez;Arequipa;Diseñador de Experiencia de Usuario;Diseño de Producto;5 años;M;FALSE;29;2025-05-31
+Ainara Vargas Soto;Lima;Ingeniero de Software Embebido;Desarrollo de Software;8 años;F;TRUE;37;2024-03-10
+Cristian Lopez Huaman;La Libertad;Analista de Datos Jr.;Inteligencia de Negocios;2 años;M;FALSE;23;2025-08-15
+Micaela Diaz Castillo;Lima;Administrador de BD Oracle;Bases de Datos;14 años;F;TRUE;50;2024-12-18
+Ulises Sanchez Chavez;Cusco;Product Owner;Gestión de Producto;6 años;M;TRUE;34;2025-07-25
+Nora Morales Gutierrez;Lima;Ingeniero de Virtualización;Infraestructura;11 años;F;TRUE;44;2024-04-18
+Homero Benites Ramos;Piura;Desarrollador Frontend;Desarrollo Frontend;3 años;M;FALSE;26;2025-12-11
+Aina Rios Paredes;Lima;Especialista en Respuesta a Incidentes;Seguridad Informática;8 años;F;TRUE;39;2024-09-18
+Maximiliano Garcia Torres;Junín;Arquitecto de Datos en la Nube;Big Data;9 años;M;TRUE;41;2025-03-03
+Alexia Mamani Flores;Lima;Gerente de Infraestructura TI;Gestión de TI;16 años;F;TRUE;54;2024-08-07
+Erick Quispe Vargas;Lambayeque;Analista Programador .NET;Desarrollo Backend;5 años;M;FALSE;30;2025-01-19
+Cayetana Castillo Mendoza;Lima;Administrador de Sistemas;DevOps;7 años;F;TRUE;35;2024-11-10
+Joel Perez Diaz;Huánuco;Desarrollador de Apps Híbridas;Desarrollo Móvil;4 años;M;FALSE;28;2025-06-14
+Samira Soto Huaman;Lima;Ingeniero de Seguridad Cloud;Seguridad Informática;6 años;F;FALSE;32;2024-04-08
+Aníbal Sanchez Morales;San Martín;Analista de Requerimientos;Análisis de Negocios;6 años;M;TRUE;33;2025-10-01
+Carla Chavez Benites;Lima;Técnico de Redes y Comunicaciones;Infraestructura;8 años;F;TRUE;38;2024-08-27
+Leo Gutierrez Ramos;Arequipa;QA Funcional;Calidad de Software;5 años;M;FALSE;29;2025-04-15
+Aroa Rios Castillo;Lima;Desarrollador Web PHP;Desarrollo Web;7 años;F;TRUE;36;2024-12-27
+Leandro Paredes Garcia;Puno;Analista de Business Intelligence;Inteligencia de Negocios;6 años;M;TRUE;34;2025-08-10
+Lía Flores Mamani;Lima;Jefe de Soporte Técnico;Soporte TI;12 años;F;TRUE;46;2024-05-15
+Marcos Quispe Perez;Cajamarca;Diseñador de Producto Digital;Diseño de Producto;7 años;M;TRUE;35;2025-10-24
+Abril Vargas Soto;Lima;Ingeniero de Software Senior;Desarrollo Backend;11 años;F;TRUE;43;2024-01-27
+Izan Lopez Huaman;Ucayali;Desarrollador Fullstack Jr.;Desarrollo Web;2 años;M;FALSE;24;2025-09-13
+Laia Diaz Castillo;Lima;Administrador de Bases de Datos SQL Server;Bases de Datos;9 años;F;TRUE;41;2024-11-17
+Nil Sanchez Chavez;Ayacucho;Agile Coach;Gestión de Proyectos;12 años;M;TRUE;47;2025-05-31
+Nerea Morales Gutierrez;Lima;Ingeniero de Ciberseguridad OT;Seguridad Informática;8 años;F;TRUE;39;2024-02-20
+Saúl Benites Ramos;Tacna;Desarrollador Frontend;Desarrollo Frontend;4 años;M;FALSE;28;2025-10-06
+Iria Rios Paredes;Lima;Analista SOC Nivel 1;Seguridad Informática;3 años;F;FALSE;26;2024-07-01
+Ángel Garcia Torres;Cusco;Analista de Datos con R;Inteligencia de Negocios;5 años;M;FALSE;30;2025-02-09
+Aina Mamani Flores;Lima;Arquitecto de Nube Híbrida;Cloud Computing;14 años;F;TRUE;51;2024-10-16
+Enzo Quispe Vargas;Ica;Gerente de Desarrollo de Software;Gestión de TI;15 años;M;TRUE;53;2025-03-25
+Cloe Castillo Mendoza;Lima;DBA PostgreSQL;Bases de Datos;8 años;F;TRUE;38;2024-09-25
+Silas Perez Diaz;La Libertad;Desarrollador iOS Nativo;Desarrollo Móvil;6 años;M;TRUE;33;2025-03-09
+Mar Soto Huaman;Lima;Ingeniero de Redes Senior;Infraestructura;13 años;F;TRUE;48;2024-08-17
+Rayan Sanchez Morales;Ancash;Analista de Procesos de Negocio;Análisis de Negocios;7 años;M;TRUE;36;2025-01-24
+Lola Chavez Benites;Lima;Especialista en Seguridad Perimetral;Seguridad Informática;9 años;F;TRUE;41;2024-06-09
+Pol Gutierrez Ramos;Piura;QA Tester de Videojuegos;Calidad de Software;4 años;M;FALSE;27;2025-11-13
+Nia Rios Castillo;Lima;Desarrollador Backend con Python;Desarrollo Backend;5 años;F;FALSE;30;2024-03-15
+Blas Paredes Garcia;Junín;Analista de Inteligencia de Negocios;Inteligencia de Negocios;6 años;M;TRUE;34;2025-08-29
+Aneu Flores Mamani;Lima;Jefe de Proyectos de Infraestructura;Gestión de Proyectos;14 años;F;TRUE;50;2024-07-05
+Eros Quispe Perez;Arequipa;Diseñador de Voz (VUI);Diseño de Producto;5 años;M;FALSE;29;2025-01-17
+Arlet Vargas Soto;Lima;Ingeniero de Automatización (RPA);Desarrollo de Software;7 años;F;TRUE;36;2024-10-31
+Adriel Lopez Huaman;Cajamarca;Desarrollador Fullstack (Java + Angular);Desarrollo Web;6 años;M;TRUE;33;2025-04-27
+Zia Diaz Castillo;Lima;Administrador de Bases de Datos NoSQL;Bases de Datos;8 años;F;TRUE;39;2025-01-07
+Said Sanchez Chavez;Lambayeque;Product Manager B2B;Gestión de Producto;9 años;M;TRUE;42;2025-07-19
+Yasmin Morales Gutierrez;Lima;Arquitecto de Ciberseguridad;Seguridad Informática;16 años;F;TRUE;56;2024-04-30
+Ismael Benites Ramos;Loreto;Desarrollador Frontend Ssr.;Desarrollo Frontend;5 años;M;FALSE;31;2025-10-12
+Rita Rios Paredes;Lima;Analista de Soporte de Aplicaciones;Soporte TI;6 años;F;TRUE;32;2024-02-28
+Otto Garcia Torres;Huancavelica;Analista de Datos Financieros;Inteligencia de Negocios;4 años;M;FALSE;28;2025-08-22
+Iris Mamani Flores;Lima;Líder Técnico de Desarrollo;Desarrollo Backend;12 años;F;TRUE;45;2024-11-30
+Biel Quispe Vargas;Pasco;Scrum Master Certificado (PSM I);Gestión de Proyectos;6 años;M;TRUE;34;2025-05-24
+Laia Castillo Mendoza;Lima;Ingeniero de Almacenamiento (Storage);Infraestructura;10 años;F;TRUE;43;2024-01-31
+Kilian Perez Diaz;Apurímac;Desarrollador de Realidad Aumentada;Desarrollo Móvil;5 años;M;FALSE;29;2025-11-07
+Aroa Soto Huaman;Lima;Analista de Inteligencia de Amenazas;Seguridad Informática;7 años;F;TRUE;36;2024-07-24
+Marcos Sanchez Morales;Madre de Dios;Analista de Negocios de TI;Análisis de Negocios;6 años;M;TRUE;35;2025-02-14
+Rayan Chavez Benites;Lima;Especialista en Continuidad de Negocio y DR;Gestión de TI;13 años;F;TRUE;49;2024-09-11
+Noa Gutierrez Ramos;Moquegua;QA Automation con Python;Calidad de Software;6 años;M;TRUE;33;2025-03-17
+Raúl Rios Castillo;Lima;Desarrollador Backend (Go);Desarrollo Backend;7 años;F;TRUE;37;2024-11-20
+Malak Paredes Garcia;Tumbes;Analista de Marketing Digital y Datos;Inteligencia de Negocios;5 años;M;FALSE;30;2025-06-29
+Lucas Flores Quispe;Lima;Ingeniero de Software;Desarrollo Backend;8 años;F;TRUE;38;2024-04-25
+Valeria Rojas Mamani;Arequipa;Analista de Datos;Inteligencia de Negocios;5 años;M;FALSE;31;2025-02-28
+Diego Mendoza Garcia;Lima;Arquitecto de Software;Arquitectura de Software;13 años;F;TRUE;48;2024-11-01
+Camila Castillo Vargas;La Libertad;Diseñador UX/UI;Diseño de Producto;6 años;M;TRUE;34;2025-02-05
+Andrés Diaz Perez;Lima;Gerente de Proyectos TI;Gestión de Proyectos;14 años;F;TRUE;51;2024-09-21
+Sofía Sanchez Soto;Cusco;Administrador de Bases de Datos;Bases de Datos;9 años;M;TRUE;40;2025-05-27
+Mateo Huaman Chavez;Lima;Especialista en Ciberseguridad;Seguridad Informática;7 años;F;TRUE;36;2024-12-11
+Isabella Gutierrez Ramos;Piura;Desarrollador Frontend;Desarrollo Frontend;4 años;M;FALSE;28;2025-03-14
+Sebastián Torres Benites;Junín;Ingeniero DevOps;DevOps;8 años;F;TRUE;39;2024-09-01
+Valentina Paredes Rios;Lima;Científico de Datos;Machine Learning;6 años;M;TRUE;33;2025-06-16
+Javier Flores Quispe;Arequipa;Ingeniero de Software;Desarrollo Backend;5 años;F;FALSE;30;2024-04-11
+Mariana Rojas Mamani;Lima;Analista de Sistemas;Análisis de Negocios;7 años;M;TRUE;35;2025-10-19
+David Mendoza Garcia;Lambayeque;Desarrollador Móvil;Desarrollo Móvil;6 años;F;TRUE;32;2024-08-03
+Fernanda Castillo Vargas;Lima;Especialista en Redes y Comunicaciones;Infraestructura;11 años;M;TRUE;44;2025-03-06
+Ricardo Diaz Perez;Cusco;Ingeniero de Datos;Big Data;8 años;F;TRUE;38;2024-09-27
+Gabriela Sanchez Soto;Lima;Arquitecto de Soluciones Cloud;Cloud Computing;15 años;M;TRUE;54;2025-06-11
+Daniel Huaman Chavez;Ica;Soporte Técnico Especializado;Soporte TI;9 años;F;TRUE;42;2024-01-25
+Paula Gutierrez Ramos;Ancash;QA Tester Automatizado;Calidad de Software;5 años;M;FALSE;30;2025-09-01
+Carlos Torres Benites;Lima;Desarrollador Fullstack;Desarrollo Web;6 años;F;TRUE;33;2024-07-11
+Adriana Paredes Rios;Puno;Analista de Seguridad de la Información;Seguridad Informática;7 años;M;TRUE;36;2025-03-20
+José Flores Quispe;Lima;Ingeniero de Software .NET;Desarrollo Backend;8 años;F;TRUE;39;2024-11-07
+Daniela Rojas Mamani;Tacna;Gerente de Proyectos de Software;Gestión de Proyectos;12 años;M;TRUE;48;2025-07-26
+Jorge Mendoza Garcia;Lima;Administrador de Sistemas Linux;DevOps;10 años;F;TRUE;43;2024-05-05
+Laura Castillo Vargas;Ucayali;Diseñador de Interfaz de Usuario;Diseño de Producto;4 años;M;FALSE;27;2025-10-10
+Luis Diaz Perez;Lima;Desarrollador Frontend Avanzado;Desarrollo Frontend;5 años;F;FALSE;31;2024-08-20
+Ana Sanchez Soto;Arequipa;Analista de Datos Senior;Inteligencia de Negocios;6 años;M;TRUE;34;2025-02-12
+Miguel Huaman Chavez;Lima;Arquitecto de Nube (Azure);Cloud Computing;9 años;F;TRUE;41;2024-12-06
+Teresa Gutierrez Ramos;La Libertad;QA Automation Lead;Calidad de Software;7 años;M;TRUE;37;2025-06-27
+Roberto Torres Benites;Lima;Ingeniero de Software (Go);Desarrollo Backend;6 años;F;TRUE;35;2024-02-21
+Claudia Paredes Rios;San Martín;Analista Funcional Senior;Análisis de Negocios;8 años;M;TRUE;39;2025-09-08
+Francisco Flores Quispe;Lima;Especialista en Ciberdefensa;Seguridad Informática;9 años;F;TRUE;42;2024-05-22
+Rosa Rojas Mamani;Cajamarca;Desarrollador Móvil Híbrido;Desarrollo Móvil;5 años;M;FALSE;30;2025-10-31
+Pedro Mendoza Garcia;Lima;Soporte Técnico Nivel 3;Soporte TI;7 años;F;TRUE;36;2024-10-06
+Mónica Castillo Vargas;Loreto;Gerente de TI y Operaciones;Gestión de TI;18 años;M;TRUE;58;2025-04-09
+Juan Diaz Perez;Lima;Ingeniero de Datos en la Nube;Big Data;7 años;F;TRUE;37;2024-08-13
+Isabel Sanchez Soto;Huánuco;Diseñador de Producto (UX/UI);Diseño de Producto;6 años;M;TRUE;33;2025-02-26
+Mario Huaman Chavez;Lima;Administrador de Bases de Datos NoSQL;Bases de Datos;10 años;F;TRUE;44;2024-12-19
+Silvia Gutierrez Ramos;Moquegua;Arquitecto de Software Empresarial;Arquitectura de Software;16 años;M;TRUE;57;2025-07-10
+Raúl Torres Benites;Lima;Desarrollador Fullstack (LAMP);Desarrollo Web;8 años;F;TRUE;39;2024-03-31
+Carmen Paredes Rios;Pasco;Analista de Business Intelligence;Inteligencia de Negocios;5 años;M;FALSE;31;2025-08-25
+Héctor Flores Quispe;Lima;Especialista en Redes Inalámbricas;Infraestructura;9 años;F;TRUE;42;2024-11-12
+Verónica Rojas Mamani;Ayacucho;QA Tester de Usabilidad;Calidad de Software;4 años;M;FALSE;28;2025-05-11
+Eduardo Mendoza Garcia;Lima;Ingeniero DevOps Cloud;DevOps;7 años;F;TRUE;37;2024-02-06
+Beatriz Castillo Vargas;Apurímac;Analista de Sistemas de Información;Análisis de Negocios;6 años;M;TRUE;34;2025-09-30
+Fernando Diaz Perez;Lima;Desarrollador Backend Java/Kotlin;Desarrollo Backend;8 años;F;TRUE;38;2024-06-24
+Gloria Sanchez Soto;Tumbes;Desarrollador Frontend (Angular);Desarrollo Frontend;6 años;M;TRUE;33;2025-04-12
+Alberto Huaman Chavez;Lima;Administrador de Sistemas Windows/Linux;Infraestructura;12 años;F;TRUE;47;2024-09-12
+Alicia Gutierrez Ramos;Madre de Dios;Gerente de Proyectos Ágiles (PMI-ACP);Gestión de Proyectos;10 años;M;TRUE;45;2025-01-21
+Alfredo Torres Benites;Lima;Soporte Técnico de Software;Soporte TI;7 años;F;TRUE;36;2024-11-29
+Lourdes Paredes Rios;Amazonas;Diseñador UX Writer;Diseño de Producto;5 años;M;FALSE;30;2025-06-01
+César Flores Quispe;Huancavelica;Ingeniero de Software (Rust);Desarrollo de Software;5 años;F;FALSE;31;2024-03-11
+Estela Rojas Mamani;Puno;Analista de Datos con Python;Inteligencia de Negocios;4 años;M;FALSE;28;2025-08-11
+Ernesto Mendoza Garcia;Lima;Arquitecto de Datos Senior;Big Data;13 años;F;TRUE;50;2024-04-19
+Olga Castillo Vargas;Ancash;Analista de Ciberseguridad Jr.;Seguridad Informática;3 años;M;FALSE;26;2025-10-04
+Iván Diaz Perez;Lima;Desarrollador Fullstack (PERN);Desarrollo Web;6 años;F;TRUE;32;2024-12-24
+Dora Sanchez Soto;Ica;Product Owner Certificado (CSPO);Gestión de Producto;7 años;M;TRUE;37;2025-07-31
+Rubén Huaman Chavez;Lima;Ingeniero de Virtualización y Nube;Infraestructura;12 años;F;TRUE;48;2024-05-10
+Blanca Gutierrez Ramos;La Libertad;Desarrollador Frontend (Svelte);Desarrollo Frontend;4 años;M;FALSE;29;2025-12-03
+Óscar Torres Benites;Lima;Especialista en Respuesta a Incidentes (DFIR);Seguridad Informática;8 años;F;TRUE;40;2024-09-16
+Inés Paredes Rios;Lambayeque;Analista de Negocio con especialidad en CRM;Análisis de Negocios;7 años;M;TRUE;36;2025-02-25
+Víctor Flores Quispe;Arequipa;QA Automatizado con Playwright;Calidad de Software;6 años;F;TRUE;34;2024-08-24
+Rocío Rojas Mamani;Lima;Desarrollador Backend con Node.js;Desarrollo Backend;7 años;M;TRUE;35;2024-07-09
+Samuel Mendoza Garcia;Cusco;Administrador de Bases de Datos MySQL;Bases de Datos;10 años;F;TRUE;43;2025-01-30
+Mercedes Castillo Vargas;Piura;Líder de Proyectos de TI;Gestión de Proyectos;13 años;M;TRUE;50;2024-10-23
+Walter Diaz Perez;Junín;Ingeniero de Redes y Seguridad;Infraestructura;12 años;F;TRUE;47;2025-04-17
+Elsa Sanchez Soto;Ucayali;Analista de Datos de Marketing;Inteligencia de Negocios;5 años;M;FALSE;31;2025-01-11
+Gerardo Huaman Chavez;Ancash;Desarrollador de Videojuegos (Unreal Engine);Desarrollo de Software;6 años;F;TRUE;33;2025-05-16
+Margarita Gutierrez Ramos;Tacna;Gerente de Producto Senior;Gestión de Producto;12 años;M;TRUE;48;2024-10-09
+Hugo Torres Benites;San Martín;Arquitecto de Software en la Nube;Arquitectura de Software;14 años;F;TRUE;52;2025-03-16
+Amelia Paredes Rios;Huánuco;Analista Programador Java;Desarrollo Backend;6 años;M;TRUE;34;2024-11-26
+Armando Flores Quispe;Pasco;Ingeniero DevOps Sr.;DevOps;10 años;F;TRUE;44;2025-07-03
+Rebeca Rojas Mamani;Ayacucho;Desarrollador Móvil iOS;Desarrollo Móvil;7 años;M;TRUE;36;2024-03-26
+Arturo Mendoza Garcia;Apurímac;Especialista en GRC;Seguridad Informática;9 años;F;TRUE;42;2025-09-04
+Susana Castillo Vargas;Tumbes;Analista de Procesos y Mejora Continua;Análisis de Negocios;8 años;M;TRUE;39;2024-01-29
+Gustavo Diaz Perez;Madre de Dios;Soporte Técnico de Aplicaciones Críticas;Soporte TI;9 años;F;TRUE;43;2025-11-11
+Josefina Sanchez Soto;Amazonas;QA Tester de Accesibilidad (WCAG);Calidad de Software;5 años;M;FALSE;30;2024-08-05
+Abel Huaman Chavez;Huancavelica;Desarrollador Fullstack (Python + React);Desarrollo Web;7 años;F;TRUE;36;2025-02-08
+Elvira Gutierrez Ramos;Puno;Analista de BI y Reporting;Inteligencia de Negocios;8 años;M;TRUE;39;2024-05-29
+Claudio Torres Benites;Loreto;Administrador de Plataformas Cloud;Cloud Computing;9 años;F;TRUE;41;2024-12-31
+Miriam Paredes Rios;Ica;Diseñador de Interacción y Movimiento;Diseño de Producto;6 años;M;TRUE;33;2025-07-15
+Nicolás Flores Quispe;Lima;Ingeniero de Software Senior;Desarrollo Backend;12 años;F;TRUE;47;2024-03-19
+Catalina Rojas Mamani;Arequipa;Científico de Datos;Machine Learning;7 años;M;TRUE;36;2025-02-15
+Benjamín Mendoza Garcia;La Libertad;Arquitecto de Datos;Big Data;14 años;F;TRUE;53;2024-11-16
+Julieta Castillo Vargas;Lima;Diseñador de Producto Lead;Diseño de Producto;10 años;M;TRUE;44;2025-05-14
+Emiliano Diaz Perez;Cusco;Gerente de Ciberseguridad (CISO);Seguridad Informática;18 años;F;TRUE;60;2024-12-16
+Renata Sanchez Soto;Piura;Administrador de Bases de Datos Cloud;Bases de Datos;9 años;M;TRUE;42;2025-08-28
+Felipe Huaman Chavez;Junín;Desarrollador Frontend con Angular;Desarrollo Frontend;6 años;F;TRUE;34;2025-02-12
+Agustina Gutierrez Ramos;Ancash;Ingeniero de Automatización de Pruebas;Calidad de Software;8 años;M;TRUE;38;2025-10-15
+Damián Torres Benites;Lima;Desarrollador Fullstack MERN;Desarrollo Web;5 años;F;FALSE;30;2024-07-07
+Regina Paredes Rios;Puno;Analista de Seguridad Ofensiva (Red Team);Seguridad Informática;7 años;M;TRUE;37;2025-04-01
+Bautista Flores Quispe;Lima;Ingeniero de Software (Scala);Desarrollo de Software;9 años;F;TRUE;41;2024-09-19
+Aitana Rojas Mamani;Tacna;Jefe de Proyectos de Business Intelligence;Gestión de Proyectos;12 años;M;TRUE;49;2025-07-21
+Lorenzo Mendoza Garcia;Lima;Administrador de Sistemas Cloud (GCP);Cloud Computing;8 años;F;TRUE;39;2024-04-29
+Lola Castillo Vargas;Ucayali;Diseñador de Sistemas de Diseño;Diseño de Producto;7 años;M;TRUE;36;2025-10-08
+Gael Diaz Perez;Lima;Desarrollador Backend con Ruby on Rails;Desarrollo Backend;8 años;F;TRUE;38;2024-08-19
+Abril Sanchez Soto;Arequipa;Analista de Datos Jr.;Inteligencia de Negocios;3 años;M;FALSE;26;2025-02-10
+Thiago Huaman Chavez;Lima;Arquitecto de Seguridad en la Nube (AWS);Seguridad Informática;10 años;F;TRUE;44;2024-12-04
+Martina Gutierrez Ramos;La Libertad;Líder de QA Manual;Calidad de Software;9 años;M;TRUE;42;2025-06-26
+Joaquín Torres Benites;Lima;Ingeniero de Software Embebido (C++);Desarrollo de Software;7 años;F;TRUE;37;2024-02-19
+Mía Paredes Rios;San Martín;Analista Funcional de ERP;Análisis de Negocios;8 años;M;TRUE;39;2025-09-09
+Santino Flores Quispe;Lima;Especialista en Hardening de Sistemas;Seguridad Informática;9 años;F;TRUE;43;2024-05-23
+Olivia Rojas Mamani;Cajamarca;Desarrollador Móvil React Native;Desarrollo Móvil;5 años;M;FALSE;31;2025-11-03
+Noah Mendoza Garcia;Loreto;Soporte Técnico de Redes;Soporte TI;8 años;F;TRUE;39;2024-10-03
+Victoria Castillo Vargas;Huánuco;Gerente de Producto Digital;Gestión de Producto;10 años;M;TRUE;45;2025-04-05
+Dante Diaz Perez;Moquegua;Ingeniero de Datos (ETL/ELT);Big Data;9 años;F;TRUE;42;2024-08-08
+Alma Sanchez Soto;Pasco;Diseñador UI/UX para Móviles;Diseño de Producto;6 años;M;TRUE;33;2025-02-23
+Bruno Huaman Chavez;Ayacucho;DBA Oracle Cloud;Bases de Datos;12 años;F;TRUE;48;2024-12-21
+Julia Gutierrez Ramos;Apurímac;Arquitecto de Soluciones Salesforce;Arquitectura de Software;13 años;M;TRUE;51;2025-07-05
+Félix Torres Benites;Tumbes;Desarrollador Fullstack (MEAN);Desarrollo Web;7 años;F;TRUE;37;2024-03-28
+Clara Paredes Rios;Madre de Dios;Analista de Business Intelligence con Tableau;Inteligencia de Negocios;6 años;M;TRUE;35;2025-08-23
+Ignacio Flores Quispe;Amazonas;Especialista en Redes Definidas por Software (SDN);Infraestructura;10 años;F;TRUE;45;2024-01-26
+Jazmín Rojas Mamani;Huancavelica;QA Tester de API;Calidad de Software;5 años;M;FALSE;30;2025-11-09
+Elías Mendoza Garcia;Puno;Ingeniero DevOps en Azure;DevOps;8 años;F;TRUE;39;2024-07-30
+Luz Castillo Vargas;Loreto;Analista de Sistemas y Procesos;Análisis de Negocios;7 años;M;TRUE;38;2025-02-17
+Simón Diaz Perez;Ica;Desarrollador Backend con Elixir y Phoenix;Desarrollo Backend;6 años;F;TRUE;34;2024-11-25
+Amelia Sanchez Soto;Lima;Desarrollador Frontend con Vue 3;Desarrollo Frontend;5 años;M;FALSE;31;2025-06-08
+Bastián Huaman Chavez;Arequipa;Administrador de Sistemas de Almacenamiento;Infraestructura;13 años;F;TRUE;50;2024-08-16
+Noa Gutierrez Ramos;La Libertad;Gerente de Proyectos de Infraestructura;Gestión de Proyectos;14 años;M;TRUE;53;2025-01-15
+Facundo Torres Benites;Lambayeque;Especialista en Seguridad de Aplicaciones (AppSec);Seguridad Informática;9 años;F;TRUE;43;2024-10-28
+Julia Paredes Rios;Cajamarca;Analista de Datos con Power Query y M;Inteligencia de Negocios;5 años;M;FALSE;32;2025-04-26
+Vicente Flores Quispe;Ancash;QA de Rendimiento y Estrés;Calidad de Software;7 años;F;TRUE;37;2025-01-05
